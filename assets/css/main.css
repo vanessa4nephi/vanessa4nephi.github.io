@@ -35,6 +35,9 @@ body {
 .electv {
 	text-align: left; 
 }
+.black {
+	color: #aa3333;
+}
 ol, ul {
 	list-style: none;
 }
