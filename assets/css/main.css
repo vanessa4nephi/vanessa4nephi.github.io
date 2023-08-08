@@ -205,7 +205,7 @@ input, select, textarea {
 		top: -0.5em;
 	}
 	.major p {
-		color: red; 
+		color: #cc0000; 
 	}
 	hr {
 		border: 0;
@@ -2661,7 +2661,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: red;
+			background-color:#cc0000;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
