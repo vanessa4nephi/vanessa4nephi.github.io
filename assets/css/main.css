@@ -2873,7 +2873,7 @@ input, select, textarea {
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(255, 255, 255, 0.5);
+			color: #7aca9a;
 			left: 0;
 			position: absolute;
 			text-align: center;
@@ -2881,7 +2881,7 @@ input, select, textarea {
 		}
 
 			#footer footer h1, #footer footer h2, #footer footer h3, #footer footer h4, #footer footer h5, #footer footer h6, #footer footer strong, #footer footer b {
-				color: #ffffff;
+				color: #7aca9a;
 			}
 
 			#footer footer a {
@@ -2889,7 +2889,7 @@ input, select, textarea {
 			}
 
 				#footer footer a:hover {
-					color: #ffffff !important;
+					color: green !important;
 				}
 
 			#footer footer .copyright {
@@ -2900,11 +2900,10 @@ input, select, textarea {
 			}
 
 				#footer footer .copyright li {
-					border-left: solid 1px rgba(255, 255, 255, 0.2);
+					border-left: solid 1px #7aca9a;
 					display: inline-block;
 					margin: 0 0 0 1em;
 					padding: 0 0 0 1em;
-					text-shadow: 5px 10px;
 					font-weight: bold; 
 				}
 
