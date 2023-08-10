@@ -2896,7 +2896,7 @@ input, select, textarea {
 				font-size: 1.1em;
 				line-height: 1em;
 				padding: 0;
-				font-weight: bold; 
+				
 			}
 
 				#footer footer .copyright li {
@@ -2904,6 +2904,8 @@ input, select, textarea {
 					display: inline-block;
 					margin: 0 0 0 1em;
 					padding: 0 0 0 1em;
+					text-shadow: 5px 10px;
+					font-weight: bold; 
 				}
 
 					#footer footer .copyright li:first-child {
